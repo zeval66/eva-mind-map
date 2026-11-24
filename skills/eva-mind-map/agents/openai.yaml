@@ -1,0 +1,4 @@
+interface:
+  display_name: "eva导图.skill"
+  short_description: "把英文段落画成一句一卡的句间逻辑导图"
+  default_prompt: "用 $eva-mind-map 为我提供的段落绘制句间逻辑导图。"
